@@ -9,7 +9,7 @@ You are permitted to use the code only for noncommercial purposes. See the [lice
 ## Installation
 
 ```bash
-git clone https://github.com/milmillin/passive-gripper.git
+git clone https://github.com/MaximilianKroeper/passive-gripper.git
 cd passive-gripper
 git submodule update --init --recursive
 ```
